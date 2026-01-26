@@ -1,53 +1,47 @@
-# octi suite – Support & Issues
+# Welcome to octi suite 👋
 
-![Status](https://img.shields.io/badge/status-stable-brightgreen)
-![Privacy](https://img.shields.io/badge/privacy-no%20external%20requests-success)
-![License](https://img.shields.io/badge/license-GPL--3.0--or--later-blue)
+**Professional design and development tools for modern creatives**
 
-This repository is the **public support and issue tracker** for extensions developed by **octi suite**.
-
-Use this repository to:
-- report bugs
-- ask technical questions
-- request features
-
-⚠️ This repository does **not** contain any source code.
+octi suite is a collection of powerful, intuitive tools built to streamline your creative workflow. From design to deployment, we're building the tools you need to bring your ideas to life.
 
 ---
 
-## Supported Products
+## 🚀 About Us
 
-- **OD Local Fonts** – Local font management for Joomla with zero external requests  
-- Additional octi suite extensions may be added over time
+We're passionate about creating software that makes complex tasks simple. Our suite of tools is designed with both beginners and professionals in mind, offering powerful features without sacrificing usability.
 
-When opening an issue, please select the correct product in the issue form.
-
----
-
-## Before Opening an Issue
-
-To help resolve issues quickly, please include:
-- Joomla version
-- Extension version
-- PHP version
-- Template / framework (e.g. Helix Ultimate)
-- Clear steps to reproduce (for bugs)
-
-Incomplete issues may be marked as **needs-info**.
+**What we're building:**
+- Innovative design tools that adapt to your workflow
+- Developer-friendly solutions with modern architecture
+- Open collaboration and community-driven development
 
 ---
 
-## Security & Privacy
+## 🛠️ Our Projects
 
-- Do **not** post credentials, private URLs, or sensitive data.
-- No personal data is required to open an issue.
-- All octi suite extensions are designed with **privacy first** in mind.
+### Featured Repositories
+
+Browse our repositories to explore the tools and libraries we're building. Each project is crafted with attention to detail and built for real-world use.
 
 ---
 
-## Links
+## 🌐 Links
 
-- Website: https://octi-suite.com  
-- Product overview: https://octi-design.at  
+- **Website:** [octi-suite.com](https://octi-suite.com)
+- **Company:** [octi-design.at](https://octi-design.at)
 
-Thank you for helping improve octi suite extensions.
+---
+
+## 💡 Get Involved
+
+Interested in contributing? We welcome collaboration and feedback from the community. Check out our repositories, open issues, or start a discussion.
+
+---
+
+## 📫 Contact
+
+Have questions or suggestions? Reach out to us at **office@octi-design.at**
+
+---
+
+<sub>Built with ❤️ by octi design | Martin Grunert</sub>
