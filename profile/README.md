@@ -1,11 +1,12 @@
 <p align="center">
-  <a href="https://octi-suite.com">
-    <img src="./assets/octi-suite-banner.svg" alt="octi suite — Joomla tools for the work you do every day" width="100%">
-  </a>
+  <img src="https://avatars.githubusercontent.com/u/248507590?v=4" alt="octi Suite logo" width="104" height="104">
 </p>
 
+<h1 align="center">octi Suite</h1>
+
 <p align="center">
-  <strong>Less repetitive setup. Clearer everyday workflows. More time to build.</strong>
+  <strong>Joomla tools for the work you do every day.</strong><br>
+  Less repetitive setup. Clearer workflows. More time to build.
 </p>
 
 <p align="center">
