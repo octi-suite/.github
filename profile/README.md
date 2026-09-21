@@ -1,47 +1,22 @@
-# Welcome to octi suite 👋
+# octi Suite
 
-**Professional design and development tools for modern creatives**
+Practical software for Joomla developers, agencies, and site teams.
 
-octi suite is a collection of powerful, intuitive tools built to streamline your creative workflow. From design to deployment, we're building the tools you need to bring your ideas to life.
+We build Joomla extensions and supporting tools that simplify recurring work: managing extensions, handling licenses and downloads, running support workflows, and preparing reusable development environments. Privacy, clear administration, and maintainable architecture guide the work.
 
----
+## What you will find here
 
-## 🚀 About Us
+- **Joomla products:** Extensions for focused site and business workflows.
+- **Developer tools:** Shared project foundations, documentation, and tools for repeatable Joomla work.
+- **Product planning:** Concepts and development branches for future releases.
 
-We're passionate about creating software that makes complex tasks simple. Our suite of tools is designed with both beginners and professionals in mind, offering powerful features without sacrificing usability.
+Repository content is not automatically a published product. Browse the [repositories](https://github.com/orgs/octi-suite/repositories), then check each README and Releases page for its current status. Development branches may contain work that has not reached the default branch or a release.
 
-**What we're building:**
-- Innovative design tools that adapt to your workflow
-- Developer-friendly solutions with modern architecture
-- Open collaboration and community-driven development
+## Links
 
----
+- [octi-suite.com](https://octi-suite.com)
+- [octi-design.at](https://octi-design.at)
 
-## 🛠️ Our Projects
+Questions about octi Suite? Contact [office@octi-design.at](mailto:office@octi-design.at).
 
-### Featured Repositories
-
-Browse our repositories to explore the tools and libraries we're building. Each project is crafted with attention to detail and built for real-world use.
-
----
-
-## 🌐 Links
-
-- **Website:** [octi-suite.com](https://octi-suite.com)
-- **Company:** [octi-design.at](https://octi-design.at)
-
----
-
-## 💡 Get Involved
-
-Interested in contributing? We welcome collaboration and feedback from the community. Check out our repositories, open issues, or start a discussion.
-
----
-
-## 📫 Contact
-
-Have questions or suggestions? Reach out to us at **office@octi-design.at**
-
----
-
-<sub>Built with ❤️ by octi design | Martin Grunert</sub>
+<sub>octi design · Martin Grunert</sub>
