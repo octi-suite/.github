@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">octi suite</title>
+  <desc id="desc">Joomla tools for the work you do every day</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#101d38"/>
+      <stop offset="0.56" stop-color="#152b53"/>
+      <stop offset="1" stop-color="#123c54"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#55d6c2"/>
+      <stop offset="1" stop-color="#8cb8ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="22" fill="url(#background)"/>
+  <circle cx="1030" cy="85" r="190" fill="#56d6c3" opacity=".06"/>
+  <circle cx="1150" cy="245" r="185" fill="#8cb8ff" opacity=".07"/>
+  <path d="M805 0v300M900 0v300M995 0v300M1090 0v300M0 75h1200M0 150h1200M0 225h1200" stroke="#c7e7ff" opacity=".045"/>
+  <g transform="translate(74 67)">
+    <rect x="0" y="0" width="62" height="62" rx="17" fill="#55d6c2"/>
+    <rect x="75" y="0" width="62" height="62" rx="17" fill="#8cb8ff"/>
+    <rect x="0" y="75" width="62" height="62" rx="17" fill="#8cb8ff"/>
+    <rect x="75" y="75" width="62" height="62" rx="17" fill="#55d6c2" opacity=".85"/>
+  </g>
+  <rect x="252" y="53" width="4" height="173" rx="2" fill="url(#accent)"/>
+  <text x="292" y="133" fill="#f5f9ff" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="700" letter-spacing="-3">octi suite</text>
+  <text x="296" y="183" fill="#c7d9ee" font-family="Arial, Helvetica, sans-serif" font-size="23" letter-spacing=".3">Joomla tools for the work you do every day</text>
+  <rect x="296" y="211" width="225" height="4" rx="2" fill="url(#accent)"/>
+  <text x="296" y="251" fill="#93b7d0" font-family="Arial, Helvetica, sans-serif" font-size="16" letter-spacing="2.2">BUILD  ·  MANAGE  ·  REPEAT</text>
+</svg>
