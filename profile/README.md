@@ -1,3 +1,6 @@
+
+<!-- === BRANDING === -->
+
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/248507590?v=4" alt="octi Suite logo" width="104" height="104">
 </p>
@@ -5,8 +8,8 @@
 <h1 align="center">octi Suite</h1>
 
 <p align="center">
-  <strong>Joomla tools for the work you do every day.</strong><br>
-  Less repetitive setup. Clearer workflows. More time to build.
+  <strong>Smart Joomla extensions. Simplified workflows.</strong><br>
+  Less repetitive work. Better integration. More time to build.
 </p>
 
 <p align="center">
@@ -19,28 +22,37 @@
 
 ---
 
-## ✨ Made for real Joomla work
+<!-- === ABOUT === -->
 
-| 🧩 Build | 🛠️ Manage | 🔁 Repeat |
-| --- | --- | --- |
-| Focused extensions that solve concrete site and business problems. | Tools that make licenses, support, and installed extensions easier to handle. | Reusable foundations and setup ideas for developers and agencies. |
+## ✨ Built for Joomla
 
-## 🧭 Around the suite
+octi Suite develops practical extensions for Joomla, focusing on everyday challenges faced by website owners, developers, and agencies.
 
-| Product | What it helps with |
+Our goal is simple: reduce unnecessary complexity, improve existing workflows, and create tools that integrate naturally into the Joomla ecosystem.
+
+## 🧩 Our Extensions
+
+| Extension | Description |
 | --- | --- |
-| **OD Local Fonts** | Host and manage web fonts locally. |
-| **OD License** | Manage licenses and protected digital delivery. |
-| **OD Help** | Organize support and knowledge workflows. |
-| **OD Suite Hub** | See and test installed suite extensions in one place. |
-| **OD Dev Setup** | Prepare portable Joomla setups for repeated use. *In planning.* |
+| **OD Local Fonts** | Manage and serve fonts locally, with integrations for Joomla frameworks, page builders, and editors. |
+| **OD License** | Manage software licenses and protected digital downloads. |
+| **OD Help** | Organize customer support and knowledge management. |
+| **OD Suite Hub** | Manage, inspect, and test installed Joomla extensions from a central interface. |
 
-We develop products in stages. A development branch may contain work that is not released yet; each repository's README and Releases page show its current status.
+## 🚀 Development & Roadmap
 
-## 🌐 Find us
+We continuously improve our existing extensions while exploring new solutions for the Joomla ecosystem.
+
+Development takes place in stages. Features and milestones under development are not necessarily available in public releases.
+
+For current versions, planned features, and release information, visit our website or the respective repository.
+
+## 🌐 Connect With Us
 
 - **Website:** [octi-suite.com](https://octi-suite.com)
 - **Studio:** [octi-design.at](https://octi-design.at)
 - **Contact:** [office@octi-design.at](mailto:office@octi-design.at)
 
-<sub>Built by octi design · Martin Grunert · Austria</sub>
+---
+
+<sub>Developed by octi design · Austria</sub>
