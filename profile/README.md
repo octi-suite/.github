@@ -55,4 +55,23 @@ For current versions, planned features, and release information, visit our websi
 
 ---
 
+<!-- === COMMUNITY & SPONSORSHIP === -->
+
+## 🏅 Community & Sponsorship
+
+Proud Extension Sponsor of the **Joomla World Conference 2026** in Potsdam, Germany.
+
+
+<!-- === JWC 2026 SPONSOR BADGE === -->
+
+<a href="https://www.holopin.io/userbadge/cmwl owf3s0004if07lv34y0nf">
+  <img
+    src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbXZhd2RsdTEwMDAzbDYwNGZ0NndsNjh5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0="
+    alt="JWC 2026 Sponsor"
+    width="180"
+  />
+</a>
+
+---
+
 <sub>Developed by octi design · Austria</sub>
